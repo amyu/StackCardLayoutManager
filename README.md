@@ -1,5 +1,6 @@
 # StackCardLayoutManager
-[![License](https://img.shields.io/hexpm/l/plug.svg)]()  
+[![License](https://img.shields.io/hexpm/l/plug.svg)]() [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-StackCardLayoutManager-green.svg?style=flat )]( https://android-arsenal.com/details/1/7358 ) [![Jitpack](https://jitpack.io/v/amyu/StackCardLayoutManager.svg)](https://jitpack.io/#amyu/StackCardLayoutManager)
+  
 This project is the movement of a new card type UI for Android
 
 ## Screenshots  
